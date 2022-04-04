@@ -12,5 +12,6 @@ dimulai sekitar bulan september tahun 2021
 ## Semester 2 
 dimulai sekitar bulan februari tahun 2022
   * Aku mulai belajar dasar-dasar Deep Learning untuk konteks machine learning lanjutan
+  * Mencoba belajar react dan ternyata sama lebih memprioritaskan Data Science
   * Mendalami library Keras dan Tensorflow
   * Belajar Library Streamlit untuk proses deployment
