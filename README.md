@@ -15,3 +15,4 @@ dimulai sekitar bulan februari tahun 2022
   * Mencoba belajar react dan ternyata sama lebih memprioritaskan Data Science
   * Mendalami library Keras dan Tensorflow
   * Belajar Library Streamlit untuk proses deployment
+  * Mengikuti chalenge pembelajaran yang diadakan oleh microsoft
