@@ -16,3 +16,4 @@ dimulai sekitar bulan februari tahun 2022
   * Mendalami library Keras dan Tensorflow
   * Belajar Library Streamlit untuk proses deployment
   * Mengikuti chalenge pembelajaran yang diadakan oleh microsoft
+  * Menyelesaikan streamlit dasar dan lanjut ke fundamental
