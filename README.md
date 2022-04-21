@@ -14,6 +14,7 @@ dimulai sekitar bulan februari tahun 2022
   * Aku mulai belajar dasar-dasar Deep Learning untuk konteks machine learning lanjutan
   * Mencoba belajar react dan ternyata sama lebih memprioritaskan Data Science
   * Mendalami library Keras dan Tensorflow
-  * Belajar Library Streamlit untuk proses deployment
-  * Mengikuti chalenge pembelajaran yang diadakan oleh microsoft
+  * Belajar Library Streamlit untuk proses deployment (selesai)
+  * Mengikuti chalenge pembelajaran yang diadakan oleh microsoft (selesai)
   * Menyelesaikan streamlit dasar dan lanjut ke fundamental
+  * Mengu=ikuti chalenge data engineering dari google cloud
